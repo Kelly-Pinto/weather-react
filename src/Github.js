@@ -5,7 +5,7 @@ export default function Github() {
   return (
     <div className="Github">
       <small>
-        <a href="https://github.com/Kelly-Pinto/Vanilla-Weather-App">
+        <a href="https://github.com/Kelly-Pinto/weather-react">
           Open-source code
         </a>
         by Kelly Pinto

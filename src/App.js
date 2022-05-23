@@ -4,6 +4,7 @@ import City from "./City";
 import Update from "./Update";
 import Current from "./Current";
 import Github from "./Github";
+import Forecast from "./Forecast";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
             <City />
             <Update />
             <Current />
+            <Forecast />
           </div>
           <Github />
         </div>
